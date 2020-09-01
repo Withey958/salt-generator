@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">saltgenerator</string>
+    <string name="description">This app produces a salt and salted password from an input password string</string>
+    <string name="button_text">Get salty</string>
+    <string name="password">Password</string>
+    <string name="password_salted">Password salted: %1$s</string>
+    <string name="salt">Salt: %1$s</string>
+    <string name="salted_password">Salted password: %1$s</string>
+    <string name="salt_size">Salt Size:</string>
+    <string name="default_salt_saize">16</string>
+</resources>
